@@ -1,9 +1,9 @@
-# House Sales in King County, USA 
+# Final Project: House Sales in King County, USA  
 
 ## **Overview**  
-This project is a **predictive analysis of house prices in King County, USA**. As a Data Analyst for a **Real Estate Investment Trust**, your task is to determine housing market prices based on various features such as square footage, number of bedrooms, and number of floors.  
+This repository contains my **final project for the "Data Analysis with Python" course on Coursera**. The project involves analyzing and predicting house prices in **King County, USA**, based on various features such as square footage, number of bedrooms, number of floors, and more.  
 
-The analysis involves **data wrangling, exploratory data analysis, and machine learning models** to predict house prices accurately.
+As a **Data Analyst working for a Real Estate Investment Trust**, the objective is to develop a predictive model to estimate housing market prices using machine learning techniques.  
 
 ## **Table of Contents**  
 1. **Instructions**  
@@ -15,9 +15,11 @@ The analysis involves **data wrangling, exploratory data analysis, and machine l
 7. **Module 5:** Model Evaluation and Refinement  
 
 
+
 ## **Instructions**  
-- This is a final project for predicting house prices using given property features.  
-- The notebook contains **ten questions** that must be completed using **Python and data analysis techniques**.  
+- This notebook contains **ten questions** related to data analysis and machine learning for housing price prediction.  
+- The goal is to **clean the data, explore relationships, build models, and evaluate their performance**.  
+
 
 ## **About the Dataset**  
 The dataset contains house sale prices for **King County, including Seattle**, with transactions recorded between **May 2014 and May 2015**.  
